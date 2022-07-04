@@ -2,7 +2,7 @@
 
 This package is an interface from [SignalTables](https://github.com/ModiaSim/SignalTables.jl) to 
 [WGLMakie](https://github.com/JuliaPlots/Makie.jl) (= Julia interface to backend WGLMakie of Makie.jl)
-in order to be able to perform convenient line plots in SignalTables via GLMakie.
+in order to be able to perform convenient line plots in SignalTables via WGLMakie.
 
 This package is usually not directly used, but is activated via package
 [SignalTables](https://github.com/ModiaSim/SignalTables.jl).
