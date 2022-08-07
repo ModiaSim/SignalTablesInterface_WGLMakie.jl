@@ -4,8 +4,8 @@ module SignalTablesInterface_WGLMakie
 const headingSize = 10
 
 const path = dirname(dirname(@__FILE__))   # Absolute path of package directory
-const Version = "0.1.1"
-const Date = "2022-08-05"
+const Version = "0.1.2"
+const Date = "2022-08-07"
 
 println("Importing SignalTablesInterface_WGLMakie Version $Version ($Date) - this takes some time due to WGLMakie import")
 
